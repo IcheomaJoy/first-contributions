@@ -3,6 +3,7 @@
 
 - [Alom Jaiswal](https://github.com/alom2407)
 - [Omar Khaium Chowdhury](https://github.com/omar-khaium )
+[Icheoma Joy](https://github.com/Icheomajoy)
 - [Tardfyou] (https://github.com/Tardfyou)
 - [apowerfulmei] (https://github.com/apowerfulmei)
 - [Ada Okonkwo](https://github.com/Coding-doves)
