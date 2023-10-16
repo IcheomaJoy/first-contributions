@@ -3,7 +3,6 @@
 
 - [Alom Jaiswal](https://github.com/alom2407)
 - [Omar Khaium Chowdhury](https://github.com/omar-khaium )
-[Icheoma Joy](https://github.com/Icheomajoy)
 - [Tardfyou] (https://github.com/Tardfyou)
 - [apowerfulmei] (https://github.com/apowerfulmei)
 - [Ada Okonkwo](https://github.com/Coding-doves)
@@ -247,6 +246,7 @@ harshal honde
 - [Alex Abundita] (https://github.com/Abundita)
 - [Aditya Prakash Gupta](https://github.com/evadrake89)
 - [Mark Finley Osei Hyiaman](https://github.com/Mark-Finley)
+- [Icheoma Joy](https://github.com/Icheomajoy)
 - [Peterson Kariuki Kanyuga](https://github.com/pkanyu)
 - [Cecilia Kinyua](https://github.com/Kinyuacecilia)
 -[Tirth Nisar](https://github.com/TirthNisar193)
